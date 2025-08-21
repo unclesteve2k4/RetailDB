@@ -10,12 +10,9 @@ RetailDB is a demo project that showcases **data modeling and reporting design**
 - `docs/` → Data catalog + ERD diagram
 - `data/` → Raw CSV data samples
 
-
 # Schema Overview
 - **OLTP (Operational DB):** Normalized 3NF schema for transactions
 - **OLAP (Analytics DB):** Star schema for reporting
-
-![ERD Diagram](docs/ERD.png)
 
 # How to Run
 1. Clone the repo:
