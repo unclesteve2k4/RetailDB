@@ -5,19 +5,19 @@ In this project, we set up Transactional and Analytical Databases in SQL for an 
 
 RetailDB is a demo project that showcases **data modeling and reporting design** for a retail company.
 
-## 🚀 Project Structure
+# Project Structure
 - `sql/` → Database schema, sample data, star schema, and queries
 - `docs/` → Data catalog + ERD diagram
 - `data/` → Raw CSV data samples
 
 
-## 📊 Schema Overview
+# Schema Overview
 - **OLTP (Operational DB):** Normalized 3NF schema for transactions
 - **OLAP (Analytics DB):** Star schema for reporting
 
 ![ERD Diagram](docs/ERD.png)
 
-## 🛠️ How to Run
+# How to Run
 1. Clone the repo:
    ```bash
    git clone https://github.com/unclesteve2k4/RetailDB.git
